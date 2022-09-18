@@ -373,7 +373,10 @@
 
 .product-main {
   padding: 2rem;
-  justify-items: center;
+  position: relative;
+  display: grid;
+  align-items: center !important;
+  justify-items: center !important;
   text-align: center;
 }
 
