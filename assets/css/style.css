@@ -201,6 +201,13 @@
   .navbar-brand{
     padding-left: 15px;
   }
+  .nav-logo-img{
+    width: 70px;
+    height: 50px;
+  }
+  .navbar{
+    padding: 0rem;
+  }
 }
 
 /*--------------------------------------------------------------
